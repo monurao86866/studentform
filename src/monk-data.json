@@ -1,0 +1,41 @@
+[
+    {
+        "id": 2,
+        "studentname": "Mohan Rao",
+        "class": "5th",
+        "primarycontact": "333-962-7516",
+        "alternativecontact": "8675435673",
+        "sem1": 33,
+        "sem2": 33,
+        "sem3": 44,
+        "sem4": 54,
+        "sem5": 53,
+        "sem6": 52
+    },
+    {
+        "id": 2,
+        "studentname": "Ravi",
+        "class": "5th",
+        "primarycontact": "333-962-7516",
+        "alternativecontact": "8675435673",
+        "sem1": 33,
+        "sem2": 33,
+        "sem3": 44,
+        "sem4": 54,
+        "sem5": 53,
+        "sem6": 52
+    },
+    {
+        "id": 3,
+        "studentname": "Sohan",
+        "class": "5th",
+        "primarycontact": "333-962-7516",
+        "alternativecontact": "8675435673",
+        "sem1": 33,
+        "sem2": 33,
+        "sem3": 44,
+        "sem4": 54,
+        "sem5": 53,
+        "sem6": 52
+    }
+  ]
